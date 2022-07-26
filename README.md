@@ -1,2 +1,2 @@
-# python_CICD_intro
-This is an introduction of CI/CD based on python program
+# pythonSample_CI_and_CD
+Python sample CI and CD experiment
